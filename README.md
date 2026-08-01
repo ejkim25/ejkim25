@@ -6,7 +6,6 @@ I am currently exploring **AI-native development** and building AI-powered appli
 My repositories reflect my learning journey and projects across **AI, data, and software development**.
 
 * 🌱 I recently built [Korea Live Music Guide](https://korea-live-music-guide.vercel.app), an AI-integrated web application that helps international visitors discover concerts and live music experiences in South Korea. It is an ongoing project exploring how AI can enhance personalised recommendations and user experiences.
-* 🌍 Outside of technology, I enjoy singing, reading, learning languages, and exploring new creative skills. I’m currently learning Japanese and hope to learn the drums someday.
 
 
 <!--
@@ -21,5 +20,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+* 🌍 Outside of technology, I enjoy singing, reading, learning languages, and exploring new creative skills. I’m currently learning Japanese and hope to learn the drums someday.
 - ⚡ Fun fact: ...
 -->
