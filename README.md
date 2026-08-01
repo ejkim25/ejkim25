@@ -5,6 +5,7 @@ I'm currently exploring **AI-native development** and building AI-powered applic
 
 My repositories reflect my learning journey and projects across **AI, data, and software development**.
 
+* 🔭 I’m currently working on a Python CLI application for automated news intelligence, including data collection from APIs/RSS and web sources, data preprocessing, SQLite-based storage, LLM-based analysis, visualization, and report generation.
 * 🌱 I recently built [Korea Live Music Guide](https://korea-live-music-guide.vercel.app), an AI-integrated web application that helps international visitors discover concerts and live music experiences in South Korea. It is an ongoing project exploring how AI can enhance personalised recommendations and user experiences.
 
 
