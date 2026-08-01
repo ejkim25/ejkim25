@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I’m **Angelin Kim**, with a background in **data analysis, quantitative modelling, and machine learning**.
+I am currently exploring **AI-native development** and building AI-powered applications that turn ideas into practical projects.
+
+My repositories reflect my learning journey and projects across **AI, data, and software development**.
+
+* 🌱 I recently built [Korea Live Music Guide](https://korea-live-music-guide.vercel.app), an AI-integrated web application that helps international visitors discover concerts and live music experiences in South Korea. It is an ongoing project exploring how AI can enhance personalised recommendations and user experiences.
+* 🌍 Outside of technology, I enjoy singing, reading, learning languages, and exploring new creative skills. I’m currently learning Japanese and hope to learn the drums someday.
+
+
 <!--
 **ejkim25/ejkim25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
