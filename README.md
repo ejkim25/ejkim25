@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Elara Kim**, with a background in **data analysis, quantitative modelling, and machine learning**.
+I’m **Angelin Kim**, with a background in **data analysis, quantitative modelling, and machine learning**.
 I'm currently exploring **AI-native development** and building AI-powered applications with Python and LLMs that turn ideas into practical projects.
 
 My repositories reflect my learning journey and projects across **AI, data, and software development**.
